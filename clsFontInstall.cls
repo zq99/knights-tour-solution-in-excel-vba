@@ -10,9 +10,6 @@ Attribute VB_Exposed = False
 '**************************************************
 ' class: Font installer
 '**************************************************
-'Author  :  Zaid Qureshi
-'Website :  www.datapluscode.com
-'Date    :  29/07/2014
 
 Option Explicit
 
