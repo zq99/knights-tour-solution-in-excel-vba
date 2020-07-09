@@ -9,7 +9,7 @@ To view a demo of the solution open up the file demo.xlsb and press the button '
 
 ## Preliminary notes
 
-The workbook uses a custom Chess Font to display a Knight Chess piece. The demo workbook when opened, will automatically install the font on your machine and then
+This project uses a custom Chess Font to display a Knight Chess piece. The demo workbook when opened, will automatically install the font on your machine and then
 uninstall the font when closed down.
 
 If you have any reservations about this, disable macros when you open the workbook or you can use the code files below and create your own version.
