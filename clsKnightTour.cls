@@ -10,9 +10,6 @@ Attribute VB_Exposed = False
 '***************************************************************************
 ' class: Implements the Warndorf's rule for solving the Knights tour problem
 '***************************************************************************
-'Author  :  Zaid Qureshi
-'Website :  www.datapluscode.com
-'Date    :  29/07/2015
 
 Option Explicit
 
