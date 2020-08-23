@@ -2,6 +2,8 @@
 
 This is my demo of solving the Knights Tour problem using Warnsdorf Rule.
 
+You can view a video the solution here: https://player.vimeo.com/video/233579477
+
 The code files have been separated from the main workbook, so they can be versioned controlled in Github.
 
 To view a demo of the solution open up the file demo.xlsb and press the button 'Start'.
