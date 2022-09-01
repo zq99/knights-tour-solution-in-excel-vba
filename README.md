@@ -45,4 +45,3 @@ The Chess Font was created by Eric Bentzen and has its own copyright notice whic
 ## Further info
 
 - https://en.wikipedia.org/wiki/Knight%27s_tour
-- https://datapluscode.com/general/solving-the-knights-tour-using-excel-vba/
